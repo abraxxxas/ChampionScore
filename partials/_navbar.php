@@ -1,7 +1,6 @@
 <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container-fluid">
   	    <ul class="nav navbar-nav">
-    	    <a href="#" class="pull-left imageAlign"><img src="https://cdn.leagueoflegends.com/riotbar/prod/1.6.15/images/bar/icon-game-lol.png?1461266899"></a>
         </ul>
     
         <ul class="nav navbar-nav">
