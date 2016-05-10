@@ -1,0 +1,76 @@
+/*START navbar elements style*/
+.textSize{
+	height: 25px;
+	font-size: 15px;
+	line-height: 25px;
+}
+
+.imageAlign{
+	margin-top: 7px;
+	margin-left: 20px;
+}
+
+.marginRight{
+	margin-top: 2px;
+	margin-right: 20px;
+}
+
+.spanSize{
+	font-size: 11px;
+}
+
+.navbar-nav > li > a {
+	padding-top:8px !important; 
+	padding-bottom:8px !important;
+}
+
+.navbar {
+	min-height:40px !important
+}
+
+/*END navbar elements style*/
+
+/* START content elements style */
+.margintTopDiv{
+	margin-top: 100px;
+}
+
+.marginTopDivInfo {
+    margin-top: 200px;
+}
+
+.bodyIndex{
+    background-image: url("../images/logo1.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 600px 600px;
+    background-color: white;
+    background-position: center top; 
+}
+
+.wellbg{
+	background: url("../images/tiles-background.png");
+}
+
+table,tr,td{
+	background-image: url("../images/tiles-background.png");
+	border:0px;
+}
+
+.bodyInfo{
+    background-image: url("http://cdn.leagueoflegends.com/lolkit/1.1.6/resources/images/bg-default.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+.footer {
+	position:absolute;
+    bottom:0;
+    width:90%;
+	text-align: center;
+}
+
+.btn-rowaling {
+    margin-top:20px;
+}
+/* END content elements style */

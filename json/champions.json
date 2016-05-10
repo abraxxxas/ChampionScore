@@ -1,0 +1,783 @@
+{
+    "1": {
+        "id": 1,
+        "key": "Annie",
+        "name": "Annie",
+        "title": "la Hija de la Oscuridad"
+    },
+    "2": {
+        "id": 2,
+        "key": "Olaf",
+        "name": "Olaf",
+        "title": "el Berserker"
+    },
+    "3": {
+        "id": 3,
+        "key": "Galio",
+        "name": "Galio",
+        "title": "la Tristeza del Guardi\u00e1n"
+    },
+    "4": {
+        "id": 4,
+        "key": "TwistedFate",
+        "name": "Twisted Fate",
+        "title": "el Maestro de las Cartas"
+    },
+    "5": {
+        "id": 5,
+        "key": "XinZhao",
+        "name": "Xin Zhao",
+        "title": "el Senescal de Demacia"
+    },
+    "6": {
+        "id": 6,
+        "key": "Urgot",
+        "name": "Urgot",
+        "title": "el Orgullo del Verdugo"
+    },
+    "7": {
+        "id": 7,
+        "key": "Leblanc",
+        "name": "LeBlanc",
+        "title": "la Maquiav\u00e9lica"
+    },
+    "8": {
+        "id": 8,
+        "key": "Vladimir",
+        "name": "Vladimir",
+        "title": "el Segador Carmes\u00ed"
+    },
+    "9": {
+        "id": 9,
+        "key": "FiddleSticks",
+        "name": "Fiddlesticks",
+        "title": "el Mensajero de la Muerte"
+    },
+    "10": {
+        "id": 10,
+        "key": "Kayle",
+        "name": "Kayle",
+        "title": "la Justiciera"
+    },
+    "11": {
+        "id": 11,
+        "key": "MasterYi",
+        "name": "Maestro Yi",
+        "title": "la Espada Wuju"
+    },
+    "12": {
+        "id": 12,
+        "key": "Alistar",
+        "name": "Alistar",
+        "title": "el Minotauro"
+    },
+    "13": {
+        "id": 13,
+        "key": "Ryze",
+        "name": "Ryze",
+        "title": "el Hechicero Rebelde"
+    },
+    "14": {
+        "id": 14,
+        "key": "Sion",
+        "name": "Sion",
+        "title": "el Coloso no Muerto"
+    },
+    "15": {
+        "id": 15,
+        "key": "Sivir",
+        "name": "Sivir",
+        "title": "la Se\u00f1ora de la Batalla"
+    },
+    "16": {
+        "id": 16,
+        "key": "Soraka",
+        "name": "Soraka",
+        "title": "la Hija de las Estrellas"
+    },
+    "17": {
+        "id": 17,
+        "key": "Teemo",
+        "name": "Teemo",
+        "title": "el Explorador Veloz"
+    },
+    "18": {
+        "id": 18,
+        "key": "Tristana",
+        "name": "Tristana",
+        "title": "la Artillera Yordle"
+    },
+    "19": {
+        "id": 19,
+        "key": "Warwick",
+        "name": "Warwick",
+        "title": "el Cazador Sanguinario"
+    },
+    "20": {
+        "id": 20,
+        "key": "Nunu",
+        "name": "Nunu",
+        "title": "el Domador de Yetis"
+    },
+    "21": {
+        "id": 21,
+        "key": "MissFortune",
+        "name": "Miss Fortune",
+        "title": "la Cazarrecompensas"
+    },
+    "22": {
+        "id": 22,
+        "key": "Ashe",
+        "name": "Ashe",
+        "title": "la Arquera de Hielo"
+    },
+    "23": {
+        "id": 23,
+        "key": "Tryndamere",
+        "name": "Tryndamere",
+        "title": "el Rey B\u00e1rbaro"
+    },
+    "24": {
+        "id": 24,
+        "key": "Jax",
+        "name": "Jax",
+        "title": "el Maestro de Armas"
+    },
+    "25": {
+        "id": 25,
+        "key": "Morgana",
+        "name": "Morgana",
+        "title": "el \u00c1ngel Ca\u00eddo"
+    },
+    "26": {
+        "id": 26,
+        "key": "Zilean",
+        "name": "Zilean",
+        "title": "el Guardi\u00e1n del Tiempo"
+    },
+    "27": {
+        "id": 27,
+        "key": "Singed",
+        "name": "Singed",
+        "title": "el Qu\u00edmico Loco"
+    },
+    "28": {
+        "id": 28,
+        "key": "Evelynn",
+        "name": "Evelynn",
+        "title": "la Hacedora de Viudas"
+    },
+    "29": {
+        "id": 29,
+        "key": "Twitch",
+        "name": "Twitch",
+        "title": "la Rata Mutante"
+    },
+    "30": {
+        "id": 30,
+        "key": "Karthus",
+        "name": "Karthus",
+        "title": "el Canto de la Muerte"
+    },
+    "31": {
+        "id": 31,
+        "key": "Chogath",
+        "name": "Cho'Gath",
+        "title": "el Terror del Vac\u00edo"
+    },
+    "32": {
+        "id": 32,
+        "key": "Amumu",
+        "name": "Amumu",
+        "title": "la Momia Triste"
+    },
+    "33": {
+        "id": 33,
+        "key": "Rammus",
+        "name": "Rammus",
+        "title": "el Armadurillo"
+    },
+    "34": {
+        "id": 34,
+        "key": "Anivia",
+        "name": "Anivia",
+        "title": "la Criof\u00e9nix"
+    },
+    "35": {
+        "id": 35,
+        "key": "Shaco",
+        "name": "Shaco",
+        "title": "el Buf\u00f3n Siniestro"
+    },
+    "36": {
+        "id": 36,
+        "key": "DrMundo",
+        "name": "Dr. Mundo",
+        "title": "el Loco de Zaun"
+    },
+    "37": {
+        "id": 37,
+        "key": "Sona",
+        "name": "Sona",
+        "title": "la Virtuosa de las Cuerdas"
+    },
+    "38": {
+        "id": 38,
+        "key": "Kassadin",
+        "name": "Kassadin",
+        "title": "el Caminante del Vac\u00edo"
+    },
+    "39": {
+        "id": 39,
+        "key": "Irelia",
+        "name": "Irelia",
+        "title": "la Voluntad de las Hojas"
+    },
+    "40": {
+        "id": 40,
+        "key": "Janna",
+        "name": "Janna",
+        "title": "la Furia de la Tormenta"
+    },
+    "41": {
+        "id": 41,
+        "key": "Gangplank",
+        "name": "Gangplank",
+        "title": "el Azote de los Mares"
+    },
+    "42": {
+        "id": 42,
+        "key": "Corki",
+        "name": "Corki",
+        "title": "el Bombardero Osado"
+    },
+    "43": {
+        "id": 43,
+        "key": "Karma",
+        "name": "Karma",
+        "title": "la Iluminada"
+    },
+    "44": {
+        "id": 44,
+        "key": "Taric",
+        "name": "Taric",
+        "title": "el Escudo de Valoran"
+    },
+    "45": {
+        "id": 45,
+        "key": "Veigar",
+        "name": "Veigar",
+        "title": "el Peque\u00f1o Maestro del Mal"
+    },
+    "48": {
+        "id": 48,
+        "key": "Trundle",
+        "name": "Trundle",
+        "title": "el Rey de los Troles"
+    },
+    "50": {
+        "id": 50,
+        "key": "Swain",
+        "name": "Swain",
+        "title": "el Estratega Maestro"
+    },
+    "51": {
+        "id": 51,
+        "key": "Caitlyn",
+        "name": "Caitlyn",
+        "title": "la Sheriff de Pilt\u00f3ver"
+    },
+    "53": {
+        "id": 53,
+        "key": "Blitzcrank",
+        "name": "Blitzcrank",
+        "title": "el Gran G\u00f3lem de Vapor"
+    },
+    "54": {
+        "id": 54,
+        "key": "Malphite",
+        "name": "Malphite",
+        "title": "el Fragmento del Monolito"
+    },
+    "55": {
+        "id": 55,
+        "key": "Katarina",
+        "name": "Katarina",
+        "title": "la Daga Siniestra"
+    },
+    "56": {
+        "id": 56,
+        "key": "Nocturne",
+        "name": "Nocturne",
+        "title": "la Pesadilla Eterna"
+    },
+    "57": {
+        "id": 57,
+        "key": "Maokai",
+        "name": "Maokai",
+        "title": "el Treant Retorcido"
+    },
+    "58": {
+        "id": 58,
+        "key": "Renekton",
+        "name": "Renekton",
+        "title": "el Carnicero de las Arenas"
+    },
+    "59": {
+        "id": 59,
+        "key": "JarvanIV",
+        "name": "Jarvan IV",
+        "title": "el Ejemplo de Demacia"
+    },
+    "60": {
+        "id": 60,
+        "key": "Elise",
+        "name": "Elise",
+        "title": "la Reina de las Ara\u00f1as"
+    },
+    "61": {
+        "id": 61,
+        "key": "Orianna",
+        "name": "Orianna",
+        "title": "la Doncella Mec\u00e1nica"
+    },
+    "62": {
+        "id": 62,
+        "key": "MonkeyKing",
+        "name": "Wukong",
+        "title": "el Rey de los Monos"
+    },
+    "63": {
+        "id": 63,
+        "key": "Brand",
+        "name": "Brand",
+        "title": "la Venganza Ardiente"
+    },
+    "64": {
+        "id": 64,
+        "key": "LeeSin",
+        "name": "Lee Sin",
+        "title": "el Monje Ciego"
+    },
+    "67": {
+        "id": 67,
+        "key": "Vayne",
+        "name": "Vayne",
+        "title": "la Cazadora Nocturna"
+    },
+    "68": {
+        "id": 68,
+        "key": "Rumble",
+        "name": "Rumble",
+        "title": "la Amenaza Mec\u00e1nica"
+    },
+    "69": {
+        "id": 69,
+        "key": "Cassiopeia",
+        "name": "Cassiopeia",
+        "title": "el Abrazo de la Serpiente"
+    },
+    "72": {
+        "id": 72,
+        "key": "Skarner",
+        "name": "Skarner",
+        "title": "la Vanguardia de Cristal"
+    },
+    "74": {
+        "id": 74,
+        "key": "Heimerdinger",
+        "name": "Heimerdinger",
+        "title": "el Venerable Inventor"
+    },
+    "75": {
+        "id": 75,
+        "key": "Nasus",
+        "name": "Nasus",
+        "title": "el Curador de las Arenas"
+    },
+    "76": {
+        "id": 76,
+        "key": "Nidalee",
+        "name": "Nidalee",
+        "title": "la Cazadora Salvaje"
+    },
+    "77": {
+        "id": 77,
+        "key": "Udyr",
+        "name": "Udyr",
+        "title": "el Cambiapieles"
+    },
+    "78": {
+        "id": 78,
+        "key": "Poppy",
+        "name": "Poppy",
+        "title": "la Guardiana del Martillo"
+    },
+    "79": {
+        "id": 79,
+        "key": "Gragas",
+        "name": "Gragas",
+        "title": "el Revoltoso"
+    },
+    "80": {
+        "id": 80,
+        "key": "Pantheon",
+        "name": "Pantheon",
+        "title": "el Artesano de la Guerra"
+    },
+    "81": {
+        "id": 81,
+        "key": "Ezreal",
+        "name": "Ezreal",
+        "title": "el Explorador Pr\u00f3digo"
+    },
+    "82": {
+        "id": 82,
+        "key": "Mordekaiser",
+        "name": "Mordekaiser",
+        "title": "el Se\u00f1or de la Muerte"
+    },
+    "83": {
+        "id": 83,
+        "key": "Yorick",
+        "name": "Yorick",
+        "title": "el Sepulturero"
+    },
+    "84": {
+        "id": 84,
+        "key": "Akali",
+        "name": "Akali",
+        "title": "el Pu\u00f1o de la Sombra"
+    },
+    "85": {
+        "id": 85,
+        "key": "Kennen",
+        "name": "Kennen",
+        "title": "el Coraz\u00f3n de la Tempestad"
+    },
+    "86": {
+        "id": 86,
+        "key": "Garen",
+        "name": "Garen",
+        "title": "el Poder de Demacia"
+    },
+    "89": {
+        "id": 89,
+        "key": "Leona",
+        "name": "Leona",
+        "title": "el Radiante Amanecer"
+    },
+    "90": {
+        "id": 90,
+        "key": "Malzahar",
+        "name": "Malzahar",
+        "title": "el Profeta del Vac\u00edo"
+    },
+    "91": {
+        "id": 91,
+        "key": "Talon",
+        "name": "Talon",
+        "title": "la Sombra de la Navaja"
+    },
+    "92": {
+        "id": 92,
+        "key": "Riven",
+        "name": "Riven",
+        "title": "la Desterrada"
+    },
+    "96": {
+        "id": 96,
+        "key": "KogMaw",
+        "name": "Kog'Maw",
+        "title": "la Boca del Abismo"
+    },
+    "98": {
+        "id": 98,
+        "key": "Shen",
+        "name": "Shen",
+        "title": "El Ojo del Crep\u00fasculo"
+    },
+    "99": {
+        "id": 99,
+        "key": "Lux",
+        "name": "Lux",
+        "title": "la Dama Luminosa"
+    },
+    "101": {
+        "id": 101,
+        "key": "Xerath",
+        "name": "Xerath",
+        "title": "el Mago Ascendente"
+    },
+    "102": {
+        "id": 102,
+        "key": "Shyvana",
+        "name": "Shyvana",
+        "title": "la Hija del Drag\u00f3n"
+    },
+    "103": {
+        "id": 103,
+        "key": "Ahri",
+        "name": "Ahri",
+        "title": "la Kumiho Ancestral"
+    },
+    "104": {
+        "id": 104,
+        "key": "Graves",
+        "name": "Graves",
+        "title": "el Forajido"
+    },
+    "105": {
+        "id": 105,
+        "key": "Fizz",
+        "name": "Fizz",
+        "title": "el Bromista de las Mareas"
+    },
+    "106": {
+        "id": 106,
+        "key": "Volibear",
+        "name": "Volibear",
+        "title": "el Rugir del Trueno"
+    },
+    "107": {
+        "id": 107,
+        "key": "Rengar",
+        "name": "Rengar",
+        "title": "el Orgullo Acechante"
+    },
+    "110": {
+        "id": 110,
+        "key": "Varus",
+        "name": "Varus",
+        "title": "la Flecha del Castigo"
+    },
+    "111": {
+        "id": 111,
+        "key": "Nautilus",
+        "name": "Nautilus",
+        "title": "el Tit\u00e1n de las Profundidades"
+    },
+    "112": {
+        "id": 112,
+        "key": "Viktor",
+        "name": "Viktor",
+        "title": "el Heraldo Mec\u00e1nico"
+    },
+    "113": {
+        "id": 113,
+        "key": "Sejuani",
+        "name": "Sejuani",
+        "title": "la Ira del Invierno"
+    },
+    "114": {
+        "id": 114,
+        "key": "Fiora",
+        "name": "Fiora",
+        "title": "la Gran Duelista"
+    },
+    "115": {
+        "id": 115,
+        "key": "Ziggs",
+        "name": "Ziggs",
+        "title": "el Experto en Hexplosivos"
+    },
+    "117": {
+        "id": 117,
+        "key": "Lulu",
+        "name": "Lulu",
+        "title": "el Hada Hechicera"
+    },
+    "119": {
+        "id": 119,
+        "key": "Draven",
+        "name": "Draven",
+        "title": "el Glorioso Ejecutor"
+    },
+    "120": {
+        "id": 120,
+        "key": "Hecarim",
+        "name": "Hecarim",
+        "title": "la Sombra de la Guerra"
+    },
+    "121": {
+        "id": 121,
+        "key": "Khazix",
+        "name": "Kha'Zix",
+        "title": "el Saqueador del Vac\u00edo"
+    },
+    "122": {
+        "id": 122,
+        "key": "Darius",
+        "name": "Darius",
+        "title": "la Mano de Noxus"
+    },
+    "126": {
+        "id": 126,
+        "key": "Jayce",
+        "name": "Jayce",
+        "title": "el Defensor del Ma\u00f1ana"
+    },
+    "127": {
+        "id": 127,
+        "key": "Lissandra",
+        "name": "Lissandra",
+        "title": "la Bruja de Hielo"
+    },
+    "131": {
+        "id": 131,
+        "key": "Diana",
+        "name": "Diana",
+        "title": "el Desd\u00e9n de la Luna"
+    },
+    "133": {
+        "id": 133,
+        "key": "Quinn",
+        "name": "Quinn",
+        "title": "las Alas de Demacia"
+    },
+    "134": {
+        "id": 134,
+        "key": "Syndra",
+        "name": "Syndra",
+        "title": "la Soberana Oscura"
+    },
+    "136": {
+        "id": 136,
+        "key": "AurelionSol",
+        "name": "Aurelion Sol",
+        "title": "El Forjador de Estrellas"
+    },
+    "143": {
+        "id": 143,
+        "key": "Zyra",
+        "name": "Zyra",
+        "title": "el Despertar de las Espinas"
+    },
+    "150": {
+        "id": 150,
+        "key": "Gnar",
+        "name": "Gnar",
+        "title": "el Eslab\u00f3n Perdido"
+    },
+    "154": {
+        "id": 154,
+        "key": "Zac",
+        "name": "Zac",
+        "title": "el Arma Secreta"
+    },
+    "157": {
+        "id": 157,
+        "key": "Yasuo",
+        "name": "Yasuo",
+        "title": "el Imperdonable"
+    },
+    "161": {
+        "id": 161,
+        "key": "Velkoz",
+        "name": "Vel'Koz",
+        "title": "el Ojo del Vac\u00edo"
+    },
+    "201":{  
+      "id":201,
+      "key":"Braum",
+      "name":"Braum",
+      "title":"el Coraz\u00f3n del Fr\u00e9ljord"
+   },
+   "202":{  
+      "id":202,
+      "key":"Jhin",
+      "name":"Jhin",
+      "title":"el Virtuoso"
+   },
+   "203":{  
+      "id":203,
+      "key":"Kindred",
+      "name":"Kindred",
+      "title":"Los Cazadores Eternos"
+   },
+   "222":{  
+      "id":222,
+      "key":"Jinx",
+      "name":"Jinx",
+      "title":"la Bala Perdida"
+   },
+   "223":{  
+      "id":223,
+      "key":"TahmKench",
+      "name":"Tahm Kench",
+      "title":"el Rey del R\u00edo"
+   },
+   "236":{  
+      "id":236,
+      "key":"Lucian",
+      "name":"Lucian",
+      "title":"el Purificador"
+   },
+   "238":{  
+      "id":238,
+      "key":"Zed",
+      "name":"Zed",
+      "title":"el Maestro de las Sombras"
+   },
+   "245":{  
+      "id":245,
+      "key":"Ekko",
+      "name":"Ekko",
+      "title":"el Joven que Fragment\u00f3 el Tiempo"
+   },
+   "254":{  
+      "id":254,
+      "key":"Vi",
+      "name":"Vi",
+      "title":"la Vigilante de Pilt\u00f3ver"
+   },
+   "266":{  
+      "id":266,
+      "key":"Aatrox",
+      "name":"Aatrox",
+      "title":"la Espada de los Oscuros"
+   },
+   "267":{  
+      "id":267,
+      "key":"Nami",
+      "name":"Nami",
+      "title":"la Invocadora de Mareas"
+   },
+   "268":{  
+      "id":268,
+      "key":"Azir",
+      "name":"Azir",
+      "title":"el Emperador de las Arenas"
+   },
+   "412":{  
+      "id":412,
+      "key":"Thresh",
+      "name":"Thresh",
+      "title":"el Carcelero Implacable"
+   },
+   "420":{  
+      "id":420,
+      "key":"Illaoi",
+      "name":"Illaoi",
+      "title":"la Sacerdotisa del Kraken"
+   },
+   "421":{  
+      "id":421,
+      "key":"RekSai",
+      "name":"Rek'Sai",
+      "title":"la Excavadora del Vac\u00edo"
+   },
+   "429":{  
+      "id":429,
+      "key":"Kalista",
+      "name":"Kalista",
+      "title":"el Esp\u00edritu de la Venganza"
+   },
+   "432":{  
+      "id":432,
+      "key":"Bard",
+      "name":"Bardo",
+      "title":"el Guardi\u00e1n Trotamundos"
+   }
+}
+
